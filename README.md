@@ -33,13 +33,13 @@ Most developers can't read a balance sheet. Most business people can't read a li
 <br/> <!-- ═══════════════ WHAT I BUILD ═══════════════ -->
 🛠️ What I build
 <div align="center">
-🌐 Websites <br>	
-🤖 AI Automation <br>	
+🌐 Websites 
+🤖 AI Automation	
 📈 Performance Marketing
-Fast, responsive sites that convert visitors into customers	Agents and workflows that take repetitive work off your team	Google and Meta ads judged by revenue, not clicks <br>
-🎬 Video & Motion <br>	
-🎨 Graphic Design <br>	
-📱 SaaS Content <br>
+Fast, responsive sites that convert visitors into customers	Agents and workflows that take repetitive work off your team	Google and Meta ads judged by revenue, not clicks
+🎬 Video & Motion 	
+🎨 Graphic Design 	
+📱 SaaS Content 
 Reels, brand films and motion graphics	Logos, creatives, pitch decks, Figma UI	Content that explains products and gets them used
 </div> <br/> <!-- ═══════════════ FEATURED ═══════════════ -->
 🚀 Featured <br>
