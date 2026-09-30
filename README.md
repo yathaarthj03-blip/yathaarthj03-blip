@@ -33,9 +33,13 @@ Most developers can't read a balance sheet. Most business people can't read a li
 <br/> <!-- ═══════════════ WHAT I BUILD ═══════════════ -->
 🛠️ What I build
 <div align="center">
-🌐 Websites <br>	🤖 AI Automation <br>	📈 Performance Marketing
+🌐 Websites <br>	
+🤖 AI Automation <br>	
+📈 Performance Marketing
 Fast, responsive sites that convert visitors into customers	Agents and workflows that take repetitive work off your team	Google and Meta ads judged by revenue, not clicks <br>
-🎬 Video & Motion <br>	🎨 Graphic Design <br>	📱 SaaS Content <br>
+🎬 Video & Motion <br>	
+🎨 Graphic Design <br>	
+📱 SaaS Content <br>
 Reels, brand films and motion graphics	Logos, creatives, pitch decks, Figma UI	Content that explains products and gets them used
 </div> <br/> <!-- ═══════════════ FEATURED ═══════════════ -->
 🚀 Featured <br>
@@ -56,17 +60,31 @@ Project	What it is <br>
 🤝 Open to client projects, collabs, and people building real things <br>
 💬 Ask me about websites, AI automation, ad performance, or breaking into business at 19 <br>
 <br/> <!-- ═══════════════ STACK ═══════════════ -->
-⚡ Tech arsenal
+⚡ Tech arsenal <br>
 <div align="center">
 
-Show Image Show Image Show Image Show Image Show Image Show Image
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-Show Image Show Image Show Image Show Image Show Image
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-Show Image Show Image Show Image Show Image
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=midjourney&logoColor=white)
+
+</div>
 
 </div> <br/> <!-- ═══════════════ STATS ═══════════════ -->
-📊 GitHub stats
+📊 GitHub stats <br>
 <div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=yathaarthj03-blip&show_icons=true&hide_border=false&bg_color=1C1C1E&title_color=F5C542&text_color=ffffff&icon_color=F5C542&border_color=2d2d30&count_private=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yathaarthj03-blip&layout=compact&bg_color=1C1C1E&title_color=F5C542&text_color=ffffff&border_color=2d2d30" /> <img src="https://streak-stats.demolab.com/?user=yathaarthj03-blip&background=1C1C1E&ring=F5C542&fire=F5C542&currStreakLabel=F5C542&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=aaaaaa&stroke=2d2d30&border=2d2d30" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=yathaarthj03-blip&bg_color=1C1C1E&color=F5C542&line=F5C542&point=ffffff&area=true&area_color=F5C542&hide_border=true&title_color=F5C542" width="95%" /> </div> <br/>
 <div align="center">
   <img src="https://raw.githubusercontent.com/yathaarthj03-blip/yathaarthj03-blip/output/github-snake-dark.svg" width="95%" />
