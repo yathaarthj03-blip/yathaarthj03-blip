@@ -9,8 +9,9 @@
 <a href="https://yathaarthj03-blip.github.io/Yathaarth-Jaju-Portfolio./"><img src="https://img.shields.io/badge/%E2%9A%A1_VIEW_MY_PORTFOLIO-F5C542?style=for-the-badge&logoColor=black&labelColor=F5C542" /></a> <a href="mailto:yathaarthj03@gmail.com"><img src="https://img.shields.io/badge/%F0%9F%93%A9_HIRE_ME-1C1C1E?style=for-the-badge&labelColor=1C1C1E&color=F5C542" /></a>
 
 </div> <br/> <!-- ═══════════════ WHOAMI ═══════════════ -->
-🧠 whoami
-js
+## 🧠 `whoami`
+
+```js
 const yathaarth = {
   role:      "Founder @ Techuilla",
   location:  "Mumbai, India",
@@ -21,6 +22,7 @@ const yathaarth = {
   motto:     "Numbers tell me where the money is. Code lets me go get it.",
   status:    "Available for work ✅"
 };
+```
 
 Most developers can't read a balance sheet. Most business people can't read a line of code. I sit in the gap between them, and that's where businesses actually get built.
 
