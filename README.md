@@ -2,7 +2,7 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Founder-Techuilla-F5C542?style=for-the-badge&labelColor=1C1C1E" /> <img src="https://img.shields.io/badge/Age-19-ff6b35?style=for-the-badge&labelColor=1C1C1E" /> <img src="https://img.shields.io/badge/Mumbai-India%20%F0%9F%87%AE%F0%9F%87%B3-2ea44f?style=for-the-badge&labelColor=1C1C1E" /> <img src="https://komarev.com/ghpvc/?username=yathaarthj03-blip&label=Profile%20views&color=F5C542&style=for-the-badge&cache=1" alt="Profile views" />
+<img src="https://img.shields.io/badge/Founder-Techuilla-F5C542?style=for-the-badge&labelColor=1C1C1E" /> <img src="https://img.shields.io/badge/Age-19-ff6b35?style=for-the-badge&labelColor=1C1C1E" /> <img src="https://img.shields.io/badge/Mumbai-India%20%F0%9F%87%AE%F0%9F%87%B3-2ea44f?style=for-the-badge&labelColor=1C1C1E" /> <img src="https://komarev.com/ghpvc/?username=yathaarthj03-blip&label=Profile%20views&color=F5C542&style=for-the-badge&cache=2" alt="Profile views" />
 
 <br/><br/>
 
