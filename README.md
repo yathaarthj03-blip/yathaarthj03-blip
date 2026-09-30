@@ -1,11 +1,11 @@
 <!-- ═══════════════ HEADER ═══════════════ --> 
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,30&height=260&section=header&text=Yathaarth%20Jaju&fontSize=66&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Commerce%20brain.%20Dev%20hands.%20Founder%20energy.&descSize=21&descAlignY=58" alt="Yathaarth Jaju" /> <a href="https://github.com/yathaarthj03-blip"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1100&color=F5C542&center=true&vCenter=true&width=700&height=45&lines=Web+Developer+%F0%9F%8C%90;AI+Automation+Builder+%F0%9F%A4%96;Performance+Marketer+%F0%9F%93%88;B.Com+student+%C3%97+Code+%F0%9F%92%BB;Building+Techuilla+from+scratch+%F0%9F%9A%80" alt="Typing animation" /> </a>
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/Founder-Techuilla-F5C542?style=for-the-badge&labelColor=1C1C1E" /> <img src="https://img.shields.io/badge/Age-19-ff6b35?style=for-the-badge&labelColor=1C1C1E" /> <img src="https://img.shields.io/badge/Mumbai-India%20%F0%9F%87%AE%F0%9F%87%B3-2ea44f?style=for-the-badge&labelColor=1C1C1E" /> <img src="https://hits.sh/github.com/yathaarthj03-blip.svg?style=for-the-badge&label=Profile%20views&color=F5C542&labelColor=1C1C1E" alt="Profile views" />
 
-<br/><br/>
+<br/>
 
 <a href="https://yathaarthj03-blip.github.io/Yathaarth-Jaju-Portfolio./"><img src="https://img.shields.io/badge/%E2%9A%A1_VIEW_MY_PORTFOLIO-F5C542?style=for-the-badge&logoColor=black&labelColor=F5C542" /></a> <a href="mailto:yathaarthj03@gmail.com"><img src="https://img.shields.io/badge/%F0%9F%93%A9_HIRE_ME-1C1C1E?style=for-the-badge&labelColor=1C1C1E&color=F5C542" /></a>
 
