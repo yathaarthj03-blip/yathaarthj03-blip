@@ -39,7 +39,7 @@ Fast, responsive sites that convert visitors into customers	Agents and workflows
 Reels, brand films and motion graphics	Logos, creatives, pitch decks, Figma UI	Content that explains products and gets them used
 </div> <br/> <!-- ═══════════════ FEATURED ═══════════════ -->
 🚀 Featured
-<div align="center"> <a href="https://github.com/yathaarthj03-blip/Air-Canvas-Pro"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=yathaarthj03-blip&repo=Air-Canvas-Pro&bg_color=1C1C1E&title_color=F5C542&text_color=ffffff&icon_color=F5C542&border_color=2d2d30" /> </a> <a href="https://github.com/yathaarthj03-blip/Yathaarth-Jaju-Portfolio"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=yathaarthj03-blip&repo=Yathaarth-Jaju-Portfolio&bg_color=1C1C1E&title_color=F5C542&text_color=ffffff&icon_color=F5C542&border_color=2d2d30" /> </a> </div>
+<div align="center"> <a href="https://github.com/yathaarthj03-blip/Air-Canvas-Pro"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=yathaarthj03-blip&repo=Air-Canvas-Pro&bg_color=1C1C1E&title_color=F5C542&text_color=ffffff&icon_color=F5C542&border_color=2d2d30" /> </a> </div>
 
 🌍 Live client work
 
