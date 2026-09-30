@@ -70,7 +70,7 @@ Show Image Show Image Show Image Show Image
 <!-- ═══════════════ QUOTE ═══════════════ --> <div align="center">
 💭
 
-"Numbers tell me where the money is. Code lets me go get it." (Yathaarth Jaju)
+"Numbers tell me where the money is. Code lets me go get it." <br> ~ Yathaarth Jaju
 
 </div> <br/> <!-- ═══════════════ CONTACT ═══════════════ -->
 📬 Let's build something
