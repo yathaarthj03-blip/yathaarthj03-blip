@@ -61,7 +61,11 @@ Show Image Show Image Show Image Show Image
 
 </div> <br/> <!-- ═══════════════ STATS ═══════════════ -->
 📊 GitHub stats
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=yathaarthj03-blip&show_icons=true&hide_border=false&bg_color=1C1C1E&title_color=F5C542&text_color=ffffff&icon_color=F5C542&border_color=2d2d30&count_private=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yathaarthj03-blip&layout=compact&bg_color=1C1C1E&title_color=F5C542&text_color=ffffff&border_color=2d2d30" /> <img src="https://streak-stats.demolab.com/?user=yathaarthj03-blip&background=1C1C1E&ring=F5C542&fire=F5C542&currStreakLabel=F5C542&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=aaaaaa&stroke=2d2d30&border=2d2d30" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=yathaarthj03-blip&bg_color=1C1C1E&color=F5C542&line=F5C542&point=ffffff&area=true&area_color=F5C542&hide_border=true&title_color=F5C542" width="95%" /> </div> <br/> <!-- ═══════════════ QUOTE ═══════════════ --> <div align="center">
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=yathaarthj03-blip&show_icons=true&hide_border=false&bg_color=1C1C1E&title_color=F5C542&text_color=ffffff&icon_color=F5C542&border_color=2d2d30&count_private=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yathaarthj03-blip&layout=compact&bg_color=1C1C1E&title_color=F5C542&text_color=ffffff&border_color=2d2d30" /> <img src="https://streak-stats.demolab.com/?user=yathaarthj03-blip&background=1C1C1E&ring=F5C542&fire=F5C542&currStreakLabel=F5C542&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=aaaaaa&stroke=2d2d30&border=2d2d30" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=yathaarthj03-blip&bg_color=1C1C1E&color=F5C542&line=F5C542&point=ffffff&area=true&area_color=F5C542&hide_border=true&title_color=F5C542" width="95%" /> </div> <br/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yathaarthj03-blip/yathaarthj03-blip/output/github-snake-dark.svg" width="95%" />
+</div>
+<!-- ═══════════════ QUOTE ═══════════════ --> <div align="center">
 💭
 
 "Numbers tell me where the money is. Code lets me go get it." (Yathaarth Jaju)
