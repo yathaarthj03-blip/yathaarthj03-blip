@@ -8,7 +8,11 @@
 
 <a href="https://yathaarthj03-blip.github.io/Yathaarth-Jaju-Portfolio./"><img src="https://img.shields.io/badge/%E2%9A%A1_VIEW_MY_PORTFOLIO-F5C542?style=for-the-badge&logoColor=black&labelColor=F5C542" /></a> <a href="mailto:yathaarthj03@gmail.com"><img src="https://img.shields.io/badge/%F0%9F%93%A9_HIRE_ME-1C1C1E?style=for-the-badge&labelColor=1C1C1E&color=F5C542" /></a>
 
-</div> <br/> <!-- ═══════════════ WHOAMI ═══════════════ -->
+</div> <br/>
+<div align="center">
+  <img src="./ascii-portrait.svg" width="600" alt="ASCII portrait of Yathaarth Jaju" />
+</div>
+<!-- ═══════════════ WHOAMI ═══════════════ -->
 ## 🧠 `whoami`
 
 ```js
